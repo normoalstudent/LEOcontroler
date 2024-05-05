@@ -1,0 +1,43 @@
+{
+    "attribute": {
+        "age": "18",
+        "birth": "gihub",
+        "constellation": "\u968f\u610f",
+        "contact": "11111111",
+        "gender": "\u5973",
+        "hobby": "\u968f\u610f",
+        "job": "\u968f\u610f",
+        "name": "\u83f2\u83f2",
+        "voice": "XIAO_XIAO",
+        "zodiac": "\u968f\u610f"
+    },
+    "interact": {
+        "QnA": "qa_demo.xlsx",
+        "maxInteractTime": 15,
+        "perception": {
+            "chat": 21,
+            "follow": 21,
+            "gift": 21,
+            "indifferent": 21,
+            "join": 21
+        },
+        "playSound": true,
+        "visualization": false
+    },
+    "items": [],
+    "source": {
+        "liveRoom": {
+            "enabled": false,
+            "url": ""
+        },
+        "record": {
+            "channels": 2,
+            "device": "\u9ea6\u514b\u98ce (Realtek(R) Audio)",
+            "enabled": true
+        },
+        "tts_enabled": true,
+        "wake_word": "\u4f60\u597d",
+        "wake_word_enabled": false,
+        "wake_word_type": "common"
+    }
+}
